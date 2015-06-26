@@ -1,0 +1,69 @@
+
+Czas wykonania WiTi: 0
+Kara optymalna: 1785
+Optymalne uszeregowanie: 6 2 9 4 3 10 1 7 8 5 
+
+
+Czas wykonania WiTi: 1
+Kara optymalna: 3229
+Optymalne uszeregowanie: 6 2 11 9 4 3 1 10 8 7 5 
+
+
+Czas wykonania WiTi: 0
+Kara optymalna: 2849
+Optymalne uszeregowanie: 6 2 11 12 9 4 3 10 1 7 8 5 
+
+
+Czas wykonania WiTi: 1
+Kara optymalna: 2582
+Optymalne uszeregowanie: 6 2 11 12 9 4 10 3 7 1 8 13 5 
+
+
+Czas wykonania WiTi: 2
+Kara optymalna: 2276
+Optymalne uszeregowanie: 6 2 11 12 9 4 7 3 10 1 5 8 13 14 
+
+
+Czas wykonania WiTi: 5
+Kara optymalna: 2297
+Optymalne uszeregowanie: 6 9 2 12 11 7 4 15 3 10 1 14 8 13 5 
+
+
+Czas wykonania WiTi: 10
+Kara optymalna: 1841
+Optymalne uszeregowanie: 6 9 2 12 11 7 4 15 3 10 1 5 16 8 13 14 
+
+
+Czas wykonania WiTi: 22
+Kara optymalna: 1599
+Optymalne uszeregowanie: 6 9 2 11 12 17 7 4 15 3 10 1 5 16 14 8 13 
+
+
+Czas wykonania WiTi: 48
+Kara optymalna: 1773
+Optymalne uszeregowanie: 6 9 2 11 12 18 7 4 17 15 3 10 1 5 16 14 8 13 
+
+
+Czas wykonania WiTi: 97
+Kara optymalna: 1646
+Optymalne uszeregowanie: 6 9 2 11 12 18 7 19 4 17 15 3 10 1 5 16 14 8 13 
+
+
+Czas wykonania WiTi: 217
+Kara optymalna: 4227
+Optymalne uszeregowanie: 6 20 2 11 12 18 9 19 4 7 15 3 10 17 1 5 16 8 13 14 
+
+
+
+Czas wykonania programu: 406 ms
+Czas wykonania BF: 113
+Kara optymalna: 1785
+Optymalne uszeregowanie: 6 2 9 4 1 3 10 7 8 5 
+
+Czas wykonania BF: 1317
+Kara optymalna: 3229
+Optymalne uszeregowanie: 6 2 11 9 4 1 3 10 8 7 5 
+
+Czas wykonania BF: 16752
+Kara optymalna: 2849
+Optymalne uszeregowanie: 6 2 11 12 9 4 3 10 1 7 8 5 

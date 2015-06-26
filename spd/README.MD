@@ -1,0 +1,1 @@
+To ma s³u¿yæ bardziej mi ni¿ Wam. :P

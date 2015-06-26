@@ -1,0 +1,7 @@
+data00.txt	<10ms
+data01.txt	<10ms
+data02.txt	11,106s
+data03.txt	14ms
+data04.txt	<10ms
+data05.txt	<10ms
+data06.txt	62,905s

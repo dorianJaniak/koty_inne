@@ -1,0 +1,2 @@
+NEH Akceleracja - 2160ms
+NEH Akceleracja Modyfikacja IR3 - 4280ms
